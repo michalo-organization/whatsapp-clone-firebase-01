@@ -8,7 +8,7 @@ import {StyleSheet, Text, View} from 'react-native'
 export default App = () => {
   return (
     <View>
-      <Text>Test 1234</Text>
+      <Text>Test 12345</Text>
     </View>
   )
   // if (!firebase.apps.length) {
